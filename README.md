@@ -2,7 +2,7 @@
 
 **A film and TV diary for watching together.** Log what you watch, keep a watchlist, get recommendations from what you've loved, see where anything is streaming, and settle "what are we watching tonight?" with friends in about a minute.
 
-**Try it:** https://asht007n.github.io/marquee/
+**Try it:** [https://asht007n.github.io/marquee/](https://asht007n.github.io/Marquee/)
 
 ## Features
 
